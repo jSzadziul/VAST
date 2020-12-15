@@ -44,7 +44,7 @@
                                 <Tracking event="creativeView"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-creative-view]]></Tracking>
                             </TrackingEvents>
                             <CompanionClickThrough>
-                                <![CDATA[https://iabtechlab.com]]>
+                                <![CDATA[https://www.starbucks.com/]]>
                             </CompanionClickThrough>
                             <CompanionClickTracking>
                                 <![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-click]]>
