@@ -38,7 +38,7 @@
                         </Companion>
                         <Companion id="9876" width="300" height="250" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250" adSlotId="987654" pxratio="1400" renderingMode="end-card">
                             <StaticResource creativeType="image/png">
-                                <![CDATA[https://cdn.freebiesupply.com/logos/large/2x/starbucks-logo-png-transparent.png]]>
+                                <![CDATA[https://logospng.org/download/starbucks/logo-starbucks-256.png]]>
                             </StaticResource>
                             <TrackingEvents>
                                 <Tracking event="creativeView"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-creative-view]]></Tracking>
