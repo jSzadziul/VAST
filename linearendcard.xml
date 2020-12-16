@@ -38,7 +38,7 @@
                         </Companion>
                         <Companion id="9876" width="300" height="250" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250" adSlotId="987654" pxratio="1400" renderingMode="end-card">
                             <HTMLResource>
-                            <![CDATA[<body><img src="https://pagead2.googlesyndication.com/pagead/imgad?id=CICAgKDTwKyTLBDgAxhGMghR083HVMUH8w"></body>]]>
+                            <![CDATA[<body><img style=background-color:rgba(0,0,0 ,0.5);src="https://logospng.org/download/starbucks/logo-starbucks-256.png"></body>]]>
                             </HTMLResource>
                             <TrackingEvents>
                                 <Tracking event="creativeView"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-creative-view]]></Tracking>
