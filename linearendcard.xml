@@ -37,9 +37,6 @@
                             </CompanionClickTracking>
                         </Companion>
                         <Companion id="9876" width="300" height="250" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250" adSlotId="987654" pxratio="1400" renderingMode="end-card">
-                            <StaticResource creativeType="image/png">
-                                <![CDATA[https://logospng.org/download/starbucks/logo-starbucks-256.png]]>
-                            </StaticResource>
                             <HTMLResource>
                             <![CDATA[<body><img src="https://pagead2.googlesyndication.com/pagead/imgad?id=CICAgKDTwKyTLBDgAxhGMghR083HVMUH8w"></body>]]>
                             </HTMLResource>
