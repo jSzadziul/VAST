@@ -40,6 +40,9 @@
                             <StaticResource creativeType="image/png">
                                 <![CDATA[https://logospng.org/download/starbucks/logo-starbucks-256.png]]>
                             </StaticResource>
+                            <HTMLResource>
+                            <![CDATA[<body><img src="https://pagead2.googlesyndication.com/pagead/imgad?id=CICAgKDTwKyTLBDgAxhGMghR083HVMUH8w"></body>]]>
+                            </HTMLResource>
                             <TrackingEvents>
                                 <Tracking event="creativeView"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-creative-view]]></Tracking>
                             </TrackingEvents>
