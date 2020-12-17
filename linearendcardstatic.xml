@@ -1,0 +1,90 @@
+<VAST version="4.1" xmlns="http://www.iab.com/VAST">
+    <Ad id="20004" sequence="1" conditionalAd="false">
+        <InLine>
+            <AdSystem version="4.1">iabtechlab</AdSystem>
+            <Error><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/error]]></Error>
+            <Extensions>
+                <Extension type="iab-Count">
+                    <total_available>
+                        <![CDATA[ 2 ]]>
+                    </total_available>
+                </Extension>
+            </Extensions>
+            <Impression id="Impression-ID"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/impression]]></Impression>
+            <Pricing model="cpm" currency="USD">
+                <![CDATA[ 25.00 ]]>
+            </Pricing>
+            <AdServingId>a532d16d-4d7f-4440-bd29-2ec0e693fc80</AdServingId>
+            <AdTitle>
+                <![CDATA[VAST 4.0 Pilot - Scenario 5]]>
+            </AdTitle>
+            <Creatives>
+                <Creative id="5480" sequence="1" adId="2447226">
+                    <UniversalAdId idRegistry="Ad-ID" >8465</UniversalAdId>
+                    <CompanionAds>
+                        <Companion id="1232" width="300" height="250" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250" adSlotId="3214" pxratio="1400">
+                            <StaticResource creativeType="image/png">
+                                <![CDATA[https://www.iab.com/wp-content/uploads/2014/09/iab-tech-lab-6-644x290.png]]>
+                            </StaticResource>
+                            <TrackingEvents>
+                                <Tracking event="creativeView"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-creative-view]]></Tracking>
+                            </TrackingEvents>
+                            <CompanionClickThrough>
+                                <![CDATA[https://iabtechlab.com]]>
+                            </CompanionClickThrough>
+                            <CompanionClickTracking>
+                                <![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-click]]>
+                            </CompanionClickTracking>
+                        </Companion>
+                        <Companion id="9876" width="300" height="250" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250" adSlotId="987654" pxratio="1400" renderingMode="end-card">
+                            <StaticResource creativeType="image/png">
+                            <![CDATA[https://logospng.org/download/starbucks/logo-starbucks-256.png]]>
+                            </StaticResource>
+                            <TrackingEvents>
+                                <Tracking event="creativeView"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-creative-view]]></Tracking>
+                            </TrackingEvents>
+                            <CompanionClickThrough>
+                                <![CDATA[https://www.starbucks.com/]]>
+                            </CompanionClickThrough>
+                            <CompanionClickTracking>
+                                <![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-click]]>
+                            </CompanionClickTracking>
+                        </Companion>
+                    </CompanionAds>
+                </Creative>
+                <Creative id="5481" sequence="1" adId="2447226">
+                    <UniversalAdId idRegistry="Ad-ID" >8466</UniversalAdId>
+                    <Linear>
+                        <TrackingEvents>
+                            <Tracking event="start" ><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/tracking/start]]></Tracking>
+                            <Tracking event="progress" offset="00:00:10"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/tracking/progress-10]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/tracking/firstQuartile]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/tracking/midpoint]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/tracking/thirdQuartile]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/tracking/complete]]></Tracking>
+                        </TrackingEvents>
+                        <Duration>00:00:16</Duration>
+                        <MediaFiles>
+                           <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/15/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1608141311/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/639FB556169F42EAD2E70686D97F4B94D080C2C0.2A9227FBA92CD8989DD2B3B4F0EDE61EAE42842E/key/ck2/file/file.mp4]]></MediaFile>
+                           <MediaFile id="GDFP" delivery="progressive" width="176" height="144" type="video/3gpp" bitrate="36" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/17/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ctier/L/ip/0.0.0.0/ipbits/0/expire/1608141311/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/2C535C0846CEE1309D8F527A179F94AB84296779.482A7B7C33D051C6D99F4C84FF2DA5F7C9A748D6/key/ck2/file/file.3gp]]></MediaFile>
+                           <MediaFile id="GDFP" delivery="progressive" width="320" height="180" type="video/3gpp" bitrate="69" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/36/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ctier/L/ip/0.0.0.0/ipbits/0/expire/1608141311/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/5D18B2BE8819CAEC53CF15E48F9FFE001A1363EA.B071D7A936EB6965424B41EB52AE60181D78D8BE/key/ck2/file/file.3gp]]></MediaFile>
+                           <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="118" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/18/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1608141311/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/AF51E2DB6D30473FA7BE7A33F7566EDFCBDB99E2.2D834B82E98A1C668AFA55DBFB56BA0CA1DA63F5/key/ck2/file/file.mp4]]></MediaFile>
+                           <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/webm" bitrate="119" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/43/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1608141311/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/19AE306F1F5656F866CB07933251C34FBC0343DE.80A33F99999A4DD34697F6B00738F46EC0F329E2/key/ck2/file/file.webm]]></MediaFile>
+                           <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/webm" bitrate="229" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/45/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1608141311/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/0D01703790ACB5F33DB009CA53AEF39CEF65FC94.1314C1316C47EFB58D61491DA5222AF2CDD8670C/key/ck2/file/file.webm]]></MediaFile>
+                           <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/webm" bitrate="132" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/44/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1608141311/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/1A4AD510317B393B312F752750AD1B4F1FB9CD39.4254E16D3F73DA486A72B4AAF5EA586D9CA89083/key/ck2/file/file.webm]]></MediaFile>
+                           <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="241" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/22/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1608141311/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/B27C9DF06657A4B21373C13A831317C9A2C02A51.8304DB2941771868F42F149FCDDBAA4085A319EB/key/ck2/file/file.mp4]]></MediaFile>
+                        </MediaFiles>
+                        <VideoClicks>
+                            <ClickThrough id="blog">
+                                <![CDATA[https://iabtechlab.com]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Description>
+                <![CDATA[This is sample companion ad tag with Linear ad tag. This tag while showing video ad on the player, will show a companion ad beside the player where it can be fitted. At most 3 companion ads can be placed. Modif accordingly to see your own content. ]]>
+            </Description>
+        </InLine>
+    </Ad>
+</VAST>
