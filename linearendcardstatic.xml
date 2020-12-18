@@ -41,6 +41,7 @@
                             <![CDATA[https://logospng.org/download/starbucks/logo-starbucks-256.png]]>
                             </StaticResource>
                             <TrackingEvents>
+                                <Tracking event="closeLinear"><![CDATA[https://pubads.g.doubleclick.net/pagead/conversion/?ai=BRuv2D6zcX6iEEsihY4a6msgCkNWP6wYAAAAQASCo3bsmOABYsJSCxtcBYOm8yYXYGrIBCWxvY2FsaG9zdLoBCjcyOHg5MF94bWzIAQXaARZodHRwOi8vbG9jYWxob3N0OjEyMzQvwAIC4AIA6gIlLzEyNDMxOTA5Ni9leHRlcm5hbC9zaW5nbGVfYWRfc2FtcGxlc_gChNIegAMBkAOMBpgD8AGoAwHgBAHSBQYQ8N65zAKQBgGgBiOoB-zVG6gH89EbqAeW2BvYBwHgBwvSCAkIgOGAEBABGB3YCAKACgWYCwE&sigh=pbii_s748LU&label=adclose&ad_mt=[AD_MT]]]></Tracking>
                                 <Tracking event="creativeView"><![CDATA[https://demo.testing.med.zee5.com/pixel.gif?/track/companion-creative-view]]></Tracking>
                             </TrackingEvents>
                             <CompanionClickThrough>
